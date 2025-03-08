@@ -4,6 +4,6 @@ tags={
 }
 name="Exordium"
 dependencies={
-	"The Fire Rises"
+	"The New Order: Last Days of Europe"
 }
 supported_version="1.15.4"
